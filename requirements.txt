@@ -1,0 +1,6 @@
+h5py
+numpy
+scipy
+ruamel.yaml
+python-dateutil
+-e git+https://bitbucket.org/lblneuro/pynwb.git@dev#egg=pynwb
